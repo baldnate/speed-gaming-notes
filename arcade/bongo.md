@@ -19,10 +19,10 @@ Jewel strats by room:
 18. Forced skip
 19. Forced take, skip (4)
 20. Forced take (5)
-21. LAVA PIT 1 (6)
-22. Forced take, option - 2 bird bridge
-23. choice - hold right steps
-24. LAVA PIT 2 (3 forced)
-25. 2 force, option - 3 bird bridge
-26. forced?? - arrow steps
+21. LAVA PIT 1 (6 - BONUS SKIP)
+22. Forced take, skip - 2 bird bridge (1)
+23. Take - hold right steps (2)
+24. LAVA PIT 2 (3 forced takes) (5)
+25. Take - 3 bird bridge - (6 - BONUS SKIP)
+26. doesn't matter - arrow steps
 27. DINO CAGE
