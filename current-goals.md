@@ -1,5 +1,6 @@
 Non PB Goals
 ============
+* Complete NEScathlon
 * Learn CV2 (glitchless any%?)
 * Strider - Do Kaz Air in a run, hopefully for sub 3:50
 * 1CC a shmup (which one?)
