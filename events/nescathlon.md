@@ -1,6 +1,6 @@
 # NEScathlon Prep Status #
 
-**Tetris**: Can complete at level 5 mostly reliably.  Not very fast.
+**Tetris**: Can complete at level 5 mostly reliably.  Not very fast, but I think it's good enough for now and probably forever.
 
 **Spartan X 2**: [PB is 7:42](https://www.speedrun.com/spartanx2/run/ywpe312z).  Good enough, play once a week to stay fresh.
 
