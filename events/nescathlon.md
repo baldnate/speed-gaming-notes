@@ -2,19 +2,14 @@
 
 ## Totally Not Ready ##
 
-**Ninja Gaiden 2**:  I can slowly grind my way through this the final boss, but it is super slow and I couldn't beat the boss.  I need to learn this game from a tutorial (probably jimmypoopins' easy tutorial + the RGLtv one).  **NEEDS ATTENTION**
+**TMNT**: I need to learn this from the ground up.  I've aborbsed very little from watching WR attempts.  **NEEDS ATTENTION**
 
 **Whomp 'Em**: I have no idea what I am doing, and my attempt to muddle through didn't go anywhere quickly.  **NEEDS ATTENTION**
 
-**TMNT**: I need to learn this from the ground up.  I've aborbsed very little from watching WR attempts.  **NEEDS ATTENTION**
-
-**Super Mario Bros**:  I can play this fast casual, but I should learn the actual strats.
-
 **Gargoyle's Quest 2**: Played it long enough to confirm that it seems very much like the GB GQ.  I think I can wait for the tutorial and just use it to get to "good enough" quickly. **NEEDS ATTENTION**
 
-**Legend of Zelda**: Was able to follow the blue ring route from the website and beat the game.  My first real trouble was the final dungeon.  If I can get the other games under better control, I should come back to this and learn a faster route.
-
 ## Not Quite Ready ##
+* Ninja Gaiden 2:  I can bumble through the game in 30-40 minutes now. Meh.
 * Super Mario Bros - Make reference material for mazes, then practice to see how I feel.
 * TLOZ - Pratice Blue Ring route more for confidence, then decide if I want to learn a faster route.
 
