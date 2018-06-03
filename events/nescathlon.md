@@ -1,12 +1,9 @@
 # NEScathlon Prep Status #
 
-## Totally Not Ready ##
-
-**TMNT**: I need to learn this from the ground up.  I've aborbsed very little from watching WR attempts.  **NEEDS ATTENTION**
-
-**Whomp 'Em**: I have no idea what I am doing, and my attempt to muddle through didn't go anywhere quickly.  **NEEDS ATTENTION**
-
-**Gargoyle's Quest 2**: Played it long enough to confirm that it seems very much like the GB GQ.  I think I can wait for the tutorial and just use it to get to "good enough" quickly. **NEEDS ATTENTION**
+## Totally Not Ready - **NEEDS ATTENTION** ##
+* TMNT: I need to learn this from the ground up.  I've aborbsed very little from watching WR attempts.  
+* Whomp 'Em: I have no idea what I am doing, and my attempt to muddle through didn't go anywhere quickly.
+* Gargoyle's Quest 2: Need to find a route document.
 
 ## Not Quite Ready ##
 * Ninja Gaiden 2:  I can bumble through the game in 30-40 minutes now. Meh.
