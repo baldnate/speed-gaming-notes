@@ -1,7 +1,7 @@
 # NEScathlon Prep Status #
 
 ## Totally Not Ready - **NEEDS ATTENTION** ##
-* Gargoyle's Quest 2: Need to watch tutorial and get some runs in.
+* Gargoyle's Quest 2: Need to do my first run(s).
 
 ## Not Quite Ready ##
 * TMNT: There are a few places where my runs go to die, but I have also finished a few runs as well.
