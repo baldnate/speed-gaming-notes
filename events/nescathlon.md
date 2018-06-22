@@ -1,17 +1,17 @@
 # NEScathlon Prep Status #
 
 ## Totally Not Ready - **NEEDS ATTENTION** ##
-* Gargoyle's Quest 2: Need to do my first run(s).
+* Gargoyle's Quest 2: Need to do my first run(s).  Maybe watch Kat's run for backup strat ideas.
 
 ## Not Quite Ready ##
 * TMNT: There are a few places where my runs go to die, but I have also finished a few runs as well.
 * Ninja Gaiden 2:  I can bumble through the game in 30-40 minutes now. Meh.
 * TLOZ - Pratice Blue Ring route more for confidence, then decide if I want to learn a faster route.
-* Whomp 'Em: I can almost reliably beat it, but there are a couple of places where I sometimes just die.  I think I little bit of save state practice + some no reset runs will fix that.
 * Super Mario Bros - Still slow, but good enough to finish.
 
 ## Good Enough For the Marathon ##
-* Tetris - Start at level 5 or 6, just go slow and safe.
+* Whomp 'Em - Ice boss gets rusty quickly.  Save state practice the final level so I don't have to slow down and grind there.
+* Tetris - Start at level 7 or 8, just go slow and safe.
 * RoboCop - If in doubt with the ED-209s, just block and miss the cycle.
-* Contra - 1CC is typical for me now.
+* Contra - 1CC is typical for me now.  Practice waterfall (for consistency/safety) and snow field (easy gains)
 * Spartan X 2 - Just kicking Naifu seems safer than jump kicks.
