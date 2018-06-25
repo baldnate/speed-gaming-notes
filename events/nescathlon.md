@@ -1,12 +1,10 @@
 # NEScathlon Prep Status #
 
-## Totally Not Ready - **NEEDS ATTENTION** ##
-* Gargoyle's Quest 2: Need to do my first run(s).  Maybe watch Kat's run for backup strat ideas.
-
 ## Not Quite Ready ##
+* Gargoyle's Quest 2: Need to practice and rewatch tutorial, but close to being able to let go of this one.
+* TLOZ - Pratice Blue Ring route more for confidence, then decide if I want to learn a faster route.
 * TMNT: There are a few places where my runs go to die, but I have also finished a few runs as well.
 * Ninja Gaiden 2:  I can bumble through the game in 30-40 minutes now. Meh.
-* TLOZ - Pratice Blue Ring route more for confidence, then decide if I want to learn a faster route.
 * Super Mario Bros - Still slow, but good enough to finish.
 
 ## Good Enough For the Marathon ##
