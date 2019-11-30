@@ -38,3 +38,44 @@ SDB tutorial notes
 	e. Kenya - Dirt Physics
 	f. Japan + USSR + Shadow
 6. Demo runs and questions
+
+
+
+Blaster Notes
+=============
+All-Star
+  Jack - 5 out of 9
+  Tom  - 5 out of 7
+  Fred - Dead
+England
+  James - 8 out of 12
+  Scott - 6 out of 9
+  Henry - 8 out of 11
+India
+  Rajiv - 2 out of 5
+  Zail  - 2 out of 4
+  Akbar - 2 out of 4
+Iceland
+  Helgi - 5 out of 16
+  Knut  - 5 out of 13
+  Hans  - 5 out of 14
+China
+  Wang  - 6 out of 10
+  Hsieh - 6 out of 9
+  Li    - 6 out of 9
+Keyna
+  Yemi - 5 out of 11
+  Oba  - 5 out of 9
+  Taha - 2 out of 8
+Japan
+  Fuji  - 5 out of 14
+  Sato  - 2 out of 9
+  Honda - 5 out of 10
+USSR
+  Boris - 3 out of 15
+  Ivan  - 3 out of 14
+  Pavel - 3 out of 14
+Shadow
+  Sam  - 1 out of 10
+  Mike - 1 out of 7
+  Bill - 1 out of 8
